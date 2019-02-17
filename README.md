@@ -6,6 +6,12 @@ a hacky terminal running in browser, connected to a docker backend
 
 [![watch the demo](demo/videolink.png)](https://youtu.be/RvRU0PaQOZs)
 
+## disclaimer
+
+This is probably not that great and has very little security whatsoever.
+I have not attempted any sort of authentication past the flashy little password (`foobar`) at the front.
+Please don't actually use this for anything important without significantly hardening the server.
+
 ## installation
 
 install [docker](https://docker.com), then:
