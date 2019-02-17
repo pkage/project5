@@ -1,0 +1,7 @@
+# probably not strictly necessary
+AuthorizedKeysFile .ssh/authorized_keys
+Subsystem	sftp	/usr/lib/ssh/sftp-server
+
+# the real login overrides
+PermitEmptyPasswords	yes
+PermitRootLogin			yes
