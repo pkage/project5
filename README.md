@@ -4,7 +4,7 @@ a hacky terminal running in browser, connected to a docker backend
 
 ## demo
 
-[![watch the demo](docs/videolink.png)](https://youtu.be/RvRU0PaQOZs)
+[![watch the demo](demo/videolink.png)](https://youtu.be/RvRU0PaQOZs)
 
 ## installation
 
